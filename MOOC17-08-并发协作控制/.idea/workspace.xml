@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="247f96dc-6c30-49a7-bca9-85191a197294" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BackgroundWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BackgroundWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CalculateEachRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CalculateEachRow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CalculateFinalResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CalculateFinalResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CountDownLatchExample$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CountDownLatchExample$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CountDownLatchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CountDownLatchExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CyclicBarrierExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CyclicBarrierExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExchangerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExchangerExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LockExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LockExample$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LockExample$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LockExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/PhaserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PhaserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SemaphoreExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SemaphoreExample$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SemaphoreExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SemaphoreExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SemaphoreExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SemaphoreExample.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CountDownLatchExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#1199#1200#0" expanded="true" />
+                <element signature="e#1271#1272#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CyclicBarrierExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="668">
+              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ExchangerExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LockExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2016">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PhaserExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SemaphoreExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LockExample.java" />
+        <option value="$PROJECT_DIR$/src/SemaphoreExample.java" />
+        <option value="$PROJECT_DIR$/src/CountDownLatchExample.java" />
+        <option value="$PROJECT_DIR$/src/ExchangerExample.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Program Files/Apache/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\Program Files\Apache\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="30" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-08" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560842215829" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="D:/ideaCode" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ExchangerExample">
+    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountDownLatchExample" />
+      <module name="MOOC17-08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CyclicBarrierExample" />
+      <module name="MOOC17-08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExchangerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExchangerExample" />
+      <module name="MOOC17-08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhaserExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhaserExample" />
+      <module name="MOOC17-08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SemaphoreExample" />
+      <module name="MOOC17-08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExchangerExample" />
+        <item itemvalue="Application.PhaserExample" />
+        <item itemvalue="Application.CyclicBarrierExample" />
+        <item itemvalue="Application.CountDownLatchExample" />
+        <item itemvalue="Application.SemaphoreExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="247f96dc-6c30-49a7-bca9-85191a197294" name="Default Changelist" comment="" />
+      <created>1560839860763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560839860763</updated>
+      <workItem from="1560839871847" duration="2322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2322000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/LockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2016">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SemaphoreExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountDownLatchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyclicBarrierExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhaserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/java/jdk1.8/src.zip!/java/util/concurrent/Exchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="522" column="11" selection-start-line="522" selection-start-column="11" selection-end-line="522" selection-end-column="11" />
+          <folding>
+            <element signature="e#22414#22415#0" expanded="true" />
+            <element signature="e#22461#22462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExchangerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
