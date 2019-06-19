@@ -7,59 +7,12 @@
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-05-Excutor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-05-Excutor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07-并发数据结构/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07-并发数据结构/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08-并发协作控制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08-并发协作控制/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09-定时任务/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09-定时任务/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty2/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netty2/EchoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty1/EchoClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty1/EchoClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty1/EchoClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty1/EchoClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty1/EchoClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty1/EchoClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty1/EchoServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty1/EchoServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty1/EchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty1/EchoServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty1/EchoServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty1/EchoServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoClient$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoClient$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServerFirstInHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServerFirstInHandler$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServerFirstInHandler$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServerFirstInHandler$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServerFirstInHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServerFirstInHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServerOutHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServerOutHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServerSecondInHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServerSecondInHandler$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServerSecondInHandler$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServerSecondInHandler$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty2/EchoServerSecondInHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty2/EchoServerSecondInHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-10-Mail/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-10-Mail/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/netty1/EchoClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -96,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/netty1/EchoServer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
               <folding>
                 <element signature="e#917#1188#0" expanded="true" />
                 <element signature="e#1187#1188#0" expanded="true" />
@@ -105,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="594">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
               <folding>
                 <element signature="e#1197#1757#0" expanded="true" />
                 <element signature="e#1756#1757#0" expanded="true" />
@@ -130,17 +83,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServerFirstInHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-396">
+            <state>
               <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServerOutHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -149,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServerSecondInHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-88">
-              <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1549#1841#0" expanded="true" />
@@ -163,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -172,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/netty1/EchoServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -263,7 +216,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560926141588" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560926368470" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="D:/ideaCode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -419,15 +372,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560916001644</updated>
-      <workItem from="1560916002868" duration="2692000" />
+      <workItem from="1560916002868" duration="3150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2692000" />
+    <option name="totallyTimeSpent" value="3150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -444,7 +398,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32997763" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32997763" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,7 +436,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/netty1/EchoServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
           <folding>
             <element signature="e#917#1188#0" expanded="true" />
             <element signature="e#1187#1188#0" expanded="true" />
@@ -504,39 +458,28 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/netty1/EchoClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/netty1/EchoServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding>
-            <element signature="e#1197#1757#0" expanded="true" />
-            <element signature="e#1756#1757#0" expanded="true" />
-          </folding>
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServerSecondInHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-88">
-          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1549#1841#0" expanded="true" />
@@ -545,17 +488,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServerOutHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServerFirstInHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
+        <state>
           <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServerOutHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty2/EchoServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="594">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="e#1197#1757#0" expanded="true" />
+            <element signature="e#1756#1757#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
