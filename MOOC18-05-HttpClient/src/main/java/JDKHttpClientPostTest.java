@@ -1,9 +1,6 @@
 import java.io.IOException;
 import java.net.URI;
 import java.net.URLEncoder;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
 
 public class JDKHttpClientPostTest {
 
@@ -13,7 +10,7 @@ public class JDKHttpClientPostTest {
 	
 	public static void doPost() {
 		try {
-			HttpClient client = HttpClient.newBuilder().build();
+			/*HttpClient client = HttpClient.newBuilder().build();
 			HttpRequest request = HttpRequest.newBuilder()
 					.uri(URI.create("https://tools.usps.com/go/ZipLookupAction.action"))
 					//.header("Content-Type","application/x-www-form-urlencoded")
@@ -29,7 +26,7 @@ public class JDKHttpClientPostTest {
 			HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
 			System.out.println(response.statusCode());
 			System.out.println(response.headers());
-			System.out.println(response.body().toString());
+			System.out.println(response.body().toString());*/
 
 		}
 		catch(Exception e) {

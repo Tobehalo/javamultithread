@@ -2,38 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="504c6bd6-5218-4906-aa56-b608b2ce765f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/BackgroundWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/BackgroundWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateEachRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateEachRow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateFinalResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateFinalResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample$Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CyclicBarrierExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CyclicBarrierExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/ExchangerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/ExchangerExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/PhaserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/PhaserExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/src/SemaphoreExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/src/SemaphoreExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09/target/classes/quartz/HelloJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09/target/classes/quartz/HelloJob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09/target/classes/quartz/QuartzTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09/target/classes/quartz/QuartzTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09/target/classes/schedule/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09/target/classes/schedule/MyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09/target/classes/schedule/ScheduledExecutorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09/target/classes/schedule/ScheduledExecutorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09/target/classes/timer/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09/target/classes/timer/MyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09/target/classes/timer/MyTask2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09/target/classes/timer/MyTask2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-09/target/classes/timer/TimerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-09/target/classes/timer/TimerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/javamultithread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/UdpRecv.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/UdpRecv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/UdpSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/UdpSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,12 +32,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UdpRecv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="572">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UdpSend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="396">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -84,32 +73,34 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MOOC18-02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC18-02" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC18-02-UDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC18-02-UDP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC18-02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC18-02" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC18-02-UDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC18-02-UDP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560844982558" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="D:/ideaCode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -131,6 +122,28 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.UdpSend">
+    <configuration name="UdpRecv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpRecv" />
+      <module name="MOOC18-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpSend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpSend" />
+      <module name="MOOC18-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UdpSend" />
+        <item itemvalue="Application.UdpRecv" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,44 +155,48 @@
       <option name="presentableId" value="Default" />
       <updated>1560843410681</updated>
       <workItem from="1560843421293" duration="163000" />
+      <workItem from="1560844305565" duration="664000" />
+      <workItem from="1560910174327" duration="501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163000" />
+    <option name="totallyTimeSpent" value="1328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25725028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,15 +205,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/UdpSend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="396">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UdpRecv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="572">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>

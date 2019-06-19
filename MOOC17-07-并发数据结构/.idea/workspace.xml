@@ -2,31 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5973c981-b6e4-4281-9842-90355f0a1e50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/list/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/list/ListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/list/ListThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/list/ListThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/map/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/map/MapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/map/MapThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/map/MapThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/QueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/queue/QueueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/QueueThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/queue/QueueThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/set/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/set/SetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/set/SetThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/set/SetThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/BackgroundWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/BackgroundWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateEachRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateEachRow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateFinalResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CalculateFinalResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample$Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CountDownLatchExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/CyclicBarrierExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/CyclicBarrierExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/ExchangerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/ExchangerExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/LockExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/PhaserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/PhaserExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/SemaphoreExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/bin/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/bin/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-08/src/SemaphoreExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08/src/SemaphoreExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/javamultithread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/map/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1254">
+            <state relative-caret-position="528">
               <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
             </state>
           </provider>
@@ -49,7 +57,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/queue/QueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
+            <state relative-caret-position="902">
               <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
             </state>
           </provider>
@@ -58,11 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/list/ListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="286">
               <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-              <folding>
-                <element signature="e#313#321#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -103,47 +108,36 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MOOC17-07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-07" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-07-并发数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-07-并发数据结构" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-07" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-07-并发数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-07-并发数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-07" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC17-07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-07" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="map" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC17-07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-07" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-07-并发数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-07-并发数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-07" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-07-并发数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-07-并发数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="set" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="QueueTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,23 +239,23 @@
       <updated>1560739105220</updated>
       <workItem from="1560739111569" duration="620000" />
       <workItem from="1560839298023" duration="1159000" />
+      <workItem from="1560915815555" duration="119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1779000" />
+    <option name="totallyTimeSpent" value="1898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25725028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
@@ -274,6 +268,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -290,13 +285,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/map/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/list/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="286">
           <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="e#313#321#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -307,16 +306,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1254">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/queue/QueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
+        <state relative-caret-position="902">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
         </state>
       </provider>

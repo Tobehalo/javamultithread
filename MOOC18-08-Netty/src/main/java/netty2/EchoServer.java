@@ -16,9 +16,9 @@ public class EchoServer {
  
     public static void main(String[] args) throws Exception {
     	int port = 8001;
-    	EchoServerFirstInHandler firstHandler = new EchoServerFirstInHandler();
-    	EchoServerSecondInHandler secondHandler = new EchoServerSecondInHandler();        
-        EchoServerOutHandler outHandler = new EchoServerOutHandler();
+    	final EchoServerFirstInHandler firstHandler = new EchoServerFirstInHandler();
+    	final EchoServerSecondInHandler secondHandler = new EchoServerSecondInHandler();
+        final EchoServerOutHandler outHandler = new EchoServerOutHandler();
         EventLoopGroup eventLoopGroup = new NioEventLoopGroup();
         
         try {

@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663ff62c-cb07-4bdb-b728-aa5c8a17dc25" name="Default Changelist" comment="" />
+    <list default="true" id="663ff62c-cb07-4bdb-b728-aa5c8a17dc25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/javamultithread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC17-08-并发协作控制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-08-并发协作控制/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +45,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/executor/example1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -23,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/executor/example1/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-22">
+            <state relative-caret-position="176">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
@@ -32,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/executor/example1/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
+            <state relative-caret-position="176">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
@@ -50,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/executor/example2/SumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-299">
-              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="22">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -59,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/threadgroup/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="501">
               <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
             </state>
           </provider>
@@ -80,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/threadgroup/Searcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-233">
+            <state relative-caret-position="88">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="e#212#213#0" expanded="true" />
@@ -94,6 +129,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,47 +154,48 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MOOC17-05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-05" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-05-Excutor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-05-Excutor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-05" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-05-Excutor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-05-Excutor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-05" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-05-Excutor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-05-Excutor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="executor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-05" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-05-Excutor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-05-Excutor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="executor" type="462c0819:PsiDirectoryNode" />
               <item name="example1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-05" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-05-Excutor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-05-Excutor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="executor" type="462c0819:PsiDirectoryNode" />
               <item name="example2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-05" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-05-Excutor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-05-Excutor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="threadgroup" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -165,6 +204,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,29 +291,23 @@
       <option name="presentableId" value="Default" />
       <updated>1560737275103</updated>
       <workItem from="1560737284090" duration="1336000" />
+      <workItem from="1560915830358" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1336000" />
+    <option name="totallyTimeSpent" value="1442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
@@ -281,22 +315,70 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/executor/example1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/executor/example1/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/executor/example1/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/executor/example2/SumTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/executor/example2/SumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadgroup/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/threadgroup/Result.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -312,54 +394,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/threadgroup/Searcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
+        <state relative-caret-position="88">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="e#212#213#0" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadgroup/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/executor/example1/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/executor/example1/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/executor/example2/SumTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/executor/example2/SumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-299">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/executor/example1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

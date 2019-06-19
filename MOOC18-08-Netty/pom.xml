@@ -3,8 +3,20 @@
   <groupId>com.test</groupId>
   <artifactId>MOOC18-08</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
-  <dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>6</source>
+                    <target>6</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <dependencies>
   	<dependency>
 	    <groupId>io.netty</groupId>
 	    <artifactId>netty-all</artifactId> <!-- Use 'netty-all' for 4.0 or above -->

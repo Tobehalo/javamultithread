@@ -2,31 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247f96dc-6c30-49a7-bca9-85191a197294" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/list/ListThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/map/MapThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/queue/QueueThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC17-07/bin/set/SetThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BackgroundWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BackgroundWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CalculateEachRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CalculateEachRow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CalculateFinalResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CalculateFinalResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CountDownLatchExample$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CountDownLatchExample$Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CountDownLatchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CountDownLatchExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CyclicBarrierExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CyclicBarrierExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExchangerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExchangerExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LockExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LockExample$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LockExample$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LockExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LockExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/PhaserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PhaserExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SemaphoreExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SemaphoreExample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SemaphoreExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SemaphoreExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SemaphoreExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SemaphoreExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/javamultithread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpRecv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-02-UDP/bin/UdpSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/TcpServer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-03-TCP/bin/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-04-HTTP/bin/URLConnectionPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientGetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/src/main/java/JDKHttpClientPostTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/HttpComponentsPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientGetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-05-HttpClient/target/classes/JDKHttpClientPostTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/TcpServer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/bio/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-06-NIO/bin/nio/NioServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MOOC18-07-AIO/bin/aio/AioServer.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +44,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CountDownLatchExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="836">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="e#1199#1200#0" expanded="true" />
@@ -53,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CyclicBarrierExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="682">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -62,7 +70,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ExchangerExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="633">
               <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -74,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LockExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2016">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="440">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -83,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PhaserExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="836">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -92,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SemaphoreExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+            <state relative-caret-position="1056">
+              <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -132,66 +140,28 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-08" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-08-并发协作控制" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-08-并发协作控制" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC17-08" type="462c0819:PsiDirectoryNode" />
+              <item name="MOOC17-08-并发协作控制" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC17-08-并发协作控制" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC17-08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,28 +246,23 @@
       <option name="presentableId" value="Default" />
       <updated>1560839860763</updated>
       <workItem from="1560839871847" duration="2322000" />
+      <workItem from="1560915800037" duration="132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2322000" />
+    <option name="totallyTimeSpent" value="2454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
@@ -305,61 +270,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LockExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2016">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SemaphoreExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CountDownLatchExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#1199#1200#0" expanded="true" />
-            <element signature="e#1271#1272#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CyclicBarrierExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PhaserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/Program Files/java/jdk1.8/src.zip!/java/util/concurrent/Exchanger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -371,9 +303,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountDownLatchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyclicBarrierExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhaserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SemaphoreExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExchangerExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="633">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
